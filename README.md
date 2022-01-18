@@ -1,6 +1,6 @@
 # React
 
-React is a front end framework to create component based sit
+React is a front end framework uses JS to create component based sites.
 
 ## Installation
 
